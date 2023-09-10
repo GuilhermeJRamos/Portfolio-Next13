@@ -12,7 +12,7 @@ import { useActiveSectionContext } from "@/context/active-section-context";
 import euImg from "../public/eu.jpg";
 
 export default function Intro() {
-  const { ref } = useSectionInView("Home", 0.5);
+  const { ref } = useSectionInView("Início", 0.5);
   const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
 
   return (
