@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { useSectionInView } from "@/lib/hooks";
 
 export default function About() {
-  const { ref } = useSectionInView("About");
+  const { ref } = useSectionInView("Sobre");
 
   return (
     <motion.section
@@ -24,7 +24,8 @@ export default function About() {
       </p>
 
       <p>
-        Tenho experiência trabalhando em projetos que envolvem React, Nextjs e Tailwind CSS. Além disso, sou familiarizado com
+        Tenho experiência trabalhando em projetos que envolvem React, Nextjs,
+ e Tailwind CSS. Além disso, sou familiarizado com
         metodologias ágeis, como Scrum/Kanban, e busco desenvolver sistemas
         seguros e de alta qualidade.
       </p>
