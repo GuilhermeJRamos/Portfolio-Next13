@@ -31,16 +31,7 @@ export default function About() {
       </p>
 
       <p>
-        Se quiser dar uma olhada em alguns dos meus projetos e códigos, confira
-        meu portfólio através do link:{" "}
-        <a
-          href="https://guilhermejramos.github.io/My-Portfolio/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          https://guilhermejramos.github.io/My-Portfolio/
-        </a>
-        . E se estiver interessado em entrar em contato, pode me ligar no
+         Se estiver interessado em entrar em contato, pode me ligar no
         telefone (21) 99795-6627 ou me enviar um e-mail em{" "}
         <a href="mailto:guilhermedejesusramos23@gmail.com">
           guilhermedejesusramos23@gmail.com

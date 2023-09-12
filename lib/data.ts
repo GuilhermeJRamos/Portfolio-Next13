@@ -49,13 +49,13 @@ export const experiencesData = [
     description:
       "Trabalhei como desenvolvedor freelancer, onde desenvolvi sites e sistemas para clientes.",
     icon: React.createElement(CgWorkAlt),
-    date: "2021 - 2023",
+    date: "2022 - 2023",
   },
   {
     title: "Desenvolvedor Front-End",
-    location: "Eio de Janeiro, RJ",
+    location: "Rio de Janeiro, RJ",
     description:
-      "Atualmente trabalho como desenvolvedor front-end na Devex Soluções, onde desenvolvo sites e sistemas para clientes.",
+      "Atualmente trabalho como desenvolvedor front-end na Devex Soluções, onde desenvolvo sites e sistemas para clientes utilizando tecnologias como HTML, CSS, JavaScript, Jquery, Tailwind, React e NextJS.",
     icon: React.createElement(FaReact),
     date: "2023 - presente",
   },

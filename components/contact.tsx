@@ -32,7 +32,7 @@ export default function Contact() {
       <SectionHeading>Me envie uma Mensagem</SectionHeading>
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
-       Por favor fale comigo pelo email{" "}
+         Fale comigo pelo email{" "}
         <a className="underline" href="mailto:guilhermedejesusramos23@gmail.com">
         guilhermedejesusramos23@gmail.com
         </a>{" "}
